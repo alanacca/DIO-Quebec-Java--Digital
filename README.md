@@ -1,2 +1,2 @@
-# Desafio de Git/GitHub da DIO
-Repositório criado para o desafio do projeto
+# Repositório para o Québec Java Digital da DIO
+
